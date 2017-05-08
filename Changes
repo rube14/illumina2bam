@@ -1,3 +1,5 @@
+- update bcel jar 5.2 -> 6.0
+
 release 1.19
 - cope with unknown sort order in header
 
